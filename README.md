@@ -1,2 +1,1 @@
-# create.web
-A forked repo from an buss registrat but its now made for BWEB
+This folder holds the source code for bweb://create.web it is forked from https://github.com/face-hh/webx-registrar
